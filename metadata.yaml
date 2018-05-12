@@ -1,0 +1,31 @@
+_repo: A-plain-and-faithful-narrative-of-the-original-design-rise-progress-and-present-state-of-the-__46378
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46378-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wheelock, Eleazar
+    alias: Wheelock, Eleazer
+    birthdate: 1711
+    deathdate: 1779
+    gutenberg_agent_id: '43750'
+    url: http://www.gutenberg.org/2009/agents/43750
+description: ''
+gutenberg_issued: '2014-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Missions'
+- !lcsh 'Moor''s Indian Charity School'
+- !lcsh 'Education -- Connecticut -- History'
+- !lcsh 'Indians of North America -- Education -- Early works to 1800'
+title: A plain and faithful narrative of the original design, rise, progress and present
+  state of the Indian charity-school at Lebanon, in Connecticut
+url: http://www.gutenberg.org/ebooks/46378
